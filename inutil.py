@@ -1,5 +1,4 @@
 numero = int(input("fala um numero: "))
-
 if numero == 1:
     print("o numero é impar")
 elif numero == 2:
@@ -1092,4 +1091,129 @@ elif numero == 545:
     print("o numero é impar")
 elif numero == 546:
     print("o numero é par")
-    
+elif numero == 547:
+    print("o numero é impar")
+elif numero == 548:
+    print("o numero é par")
+elif numero == 549:
+    print("o numero é impar")
+elif numero == 550:
+    print("o numero é par")
+elif numero == 551:
+    print("o numero é impar")
+elif numero == 552:
+    print("o numero é par")
+elif numero == 553:
+    print("o numero é impar")
+elif numero == 554:
+    print("o numero é par")
+elif numero == 555:
+    print("o numero é impar")
+elif numero == 556:
+    print("o numero é par")
+elif numero == 557:
+    print("o numero é impar")
+elif numero == 558:
+    print("o numero é par")
+elif numero == 559:
+    print("o numero é impar")
+elif numero == 560:
+    print("o numero é par")
+elif numero == 561:
+    print("o numero é impar")
+elif numero == 562:
+    print("o numero é par")
+elif numero == 563:
+    print("o numero é impar")
+elif numero == 564:
+    print("o numero é par")
+elif numero == 565:
+    print("o numero é impar")
+elif numero == 566:
+    print("o numero é par")
+elif numero == 567:
+    print("o numero é impar")
+elif numero == 568:
+    print("o numero é par")
+elif numero == 569:
+    print("o numero é impar")
+elif numero == 570:
+    print("o numero é par")
+elif numero == 571:
+    print("o numero é impar")
+elif numero == 572:
+    print("o numero é par")
+elif numero == 573:
+    print("o numero é impar")
+elif numero == 574:
+    print("o numero é par")
+elif numero == 575:
+    print("o numero é impar")
+elif numero == 576:
+    print("o numero é par")
+elif numero == 577:
+    print("o numero é impar")
+elif numero == 578:
+    print("o numero é par")
+elif numero == 579:
+    print("o numero é impar")
+elif numero == 580:
+    print("o numero é par")
+elif numero == 581:
+    print("o numero é impar")
+elif numero == 582:
+    print("o numero é par")
+elif numero == 583:
+    print("o numero é impar")
+elif numero == 584:
+    print("o numero é par")
+elif numero == 585:
+    print("o numero é impar")
+elif numero == 586:
+    print("o numero é par")
+elif numero == 587:
+    print("o numero é impar")
+elif numero == 588:
+    print("o numero é par")
+elif numero == 589:
+    print("o numero é impar")
+elif numero == 590:
+    print("o numero é par")
+elif numero == 591:
+    print("o numero é impar")
+elif numero == 592:
+    print("o numero é par")
+elif numero == 593:
+    print("o numero é impar")
+elif numero == 594:
+    print("o numero é par")
+elif numero == 595:
+    print("o numero é impar")
+elif numero == 596:
+    print("o numero é par")
+elif numero == 597:
+    print("o numero é impar")
+elif numero == 598:
+    print("o numero é par")
+elif numero == 599:
+    print("o numero é impar")
+elif numero == 600:
+    print("o numero é par")
+elif numero == 601:
+    print("o numero é impar")
+elif numero == 602:
+    print("o numero é par")
+elif numero == 603:
+    print("o numero é impar")
+elif numero == 604:
+    print("o numero é par")
+elif numero == 605:
+    print("o numero é impar")
+elif numero == 606:
+    print("o numero é par")
+elif numero == 607: 
+    print("o numero é impar")
+elif numero == 608:
+    print("o numero é par")
+elif numero == 609:
+    print("o numero é impar")   
